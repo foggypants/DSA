@@ -1,9 +1,9 @@
 # DSA
-# Library Management System (C++ / DSA Project)
+# Wealth Track(C++ / DSA Project)
 
 ## 1. Project Title
 
-**Library Management System** — a console-based C++ application that manages books, members, and checkouts using core data structures: Linked List, Stack, Queue, and Binary Search Tree (BST).
+**Wealth Track** — a console-based C++ application that manages books, members, and checkouts using core data structures: Linked List, Stack, Queue, and Binary Search Tree (BST).
 
 ---
 
